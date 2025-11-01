@@ -1,2 +1,3 @@
 # SharePoint
-Everything related to SharePoint
+SharePoint related PowerShell scripts
+
